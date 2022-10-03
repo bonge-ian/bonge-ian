@@ -1,4 +1,8 @@
-Hi 👋 My name is Karanja (Bonge)
+Hi 👋 
+
+[![@bonge's Holopin board](https://holopin.io/api/user/board?user=bonge)](https://holopin.io/@bonge)
+
+My name is Karanja (Bonge)
 ================================
 
 Web developer
