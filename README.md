@@ -13,7 +13,7 @@ I spend most of my time exploring Laravel and Laravel livewire. Sometimes, I cle
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Bonge Inc](http://bonge-inc.co.ke/#portfolio)
 * ✉️  You can contact me at [bonge@bonge-inc.co.ke](mailto:bonge@bonge-inc.co.ke)
-* 🧠  I'm learning Laravel, Livewire, C#
+* 🧠  Continously engaging in PHP, Laravel, Livewire, FilamentPHP, AlpineJs and a bit C#
 
 ### Skills
 
@@ -27,11 +27,6 @@ I spend most of my time exploring Laravel and Laravel livewire. Sometimes, I cle
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/bonge-ian" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karanja-mbugua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bongeinc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -44,10 +39,3 @@ I spend most of my time exploring Laravel and Laravel livewire. Sometimes, I cle
 
 <a href="https://github.com/bonge-ian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonge-ian&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/bonge-ian/mboka" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bonge-ian&repo=mboka&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bonge-ian/fokit" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bonge-ian&repo=fokit&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/bonge-ian/hilda-hairs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bonge-ian&repo=hilda-hairs&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bonge-ian/Ithako" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bonge-ian&repo=Ithako&title_color=22c55e&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
