@@ -1,29 +1,50 @@
-Hi 👋 
+# Hi, I'm Bonge 👋
 
-[![@bonge's Holopin board](https://holopin.io/api/user/board?user=bonge)](https://holopin.io/@bonge)
+### Laravel developer · Product-minded builder · Nairobi, Kenya
 
-My name is Karanja (Bonge)
-================================
+I build practical web products with **PHP and Laravel**, turning ideas into clean, usable applications. My work spans business tools, marketplaces, job boards, e-commerce, and reusable UI integrations. Lately, I have also been exploring **C# and .NET** through hands-on projects.
 
-Web developer
--------------
+[![Portfolio](https://img.shields.io/badge/Portfolio-bonge--inc.co.ke-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bonge-inc.co.ke/#portfolio)
+[![Email](https://img.shields.io/badge/Email-bonge%40bonge--inc.co.ke-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonge@bonge-inc.co.ke)
 
-I spend most of my time exploring Laravel and Laravel livewire. Sometimes, I clear my head by delving into C#.
+## What I build
 
-* 🌍  I'm based in Nairobi
-* 🖥️  See my portfolio at [Bonge Inc](http://bonge-inc.co.ke/#portfolio)
-* ✉️  You can contact me at [bonge@bonge-inc.co.ke](mailto:bonge@bonge-inc.co.ke)
-* 🧠  Continously engaging in PHP, Laravel, Livewire, FilamentPHP, AlpineJs and a bit C#
+- **Laravel applications** with Livewire, Blade, MySQL, and robust CRUD workflows
+- **Business and commerce products**, including rentals, subscriptions, job boards, and e-commerce
+- **Reusable front-end experiences** with UIkit, Sass, Alpine.js, and responsive design
+- **Developer-focused experiments**, from Laravel authentication presets to a Laravel chat package
+- **C# applications** while growing my .NET toolkit
 
-### Skills
+## Selected work
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+| Project | What it shows |
+| --- | --- |
+| [TechLease](https://github.com/bonge-ian/techlease) | A technology rental platform built around flexible access to devices |
+| [Spark Cars](https://github.com/bonge-ian/Spark-Cars) | A car-rental web application |
+| [Mboka](https://github.com/bonge-ian/mboka) | A minimal job-board application using Laravel, Livewire, UIkit, and MySQL |
+| [Ithako](https://github.com/bonge-ian/Ithako) | A video-game aggregator |
+| [Chat](https://github.com/bonge-ian/chat) | A Laravel package for adding chat and messaging |
+| [Wplay](https://github.com/bonge-ian/Wplay) | A current C# project combining REST-style endpoints with UIkit and HTMX |
+
+## Toolkit
+
+<p>
+  <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
+  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="https://livewire.laravel.com/"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"></a>
+  <a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://alpinejs.dev/"><img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=111827" alt="Alpine.js"></a>
+  <a href="https://getuikit.com/"><img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=uikit&logoColor=white" alt="UIkit"></a>
+  <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass"></a>
 </p>
 
+## Currently
+
+- Deepening my Laravel, Livewire, Filament, and Alpine.js practice
+- Exploring C# and .NET through project-based learning
+- Open to useful collaborations and interesting product ideas
+
+<p align="center">
+  <a href="https://github.com/bonge-ian"><img src="https://komarev.com/ghpvc/?username=bonge-ian&style=flat-square&color=blue" alt="Profile views"></a>
+</p>
